@@ -1,31 +1,3 @@
-<!-- Logo -->
-<p align="center">
-  <a href="https://closer-classroom.herokuapp.com/">
-    <img height="150" width="320" src="https://firebasestorage.googleapis.com/v0/b/smart-closer.appspot.com/o/1620185282927-closer.png?alt=media">
-  </a>
-</p>
-
-<!-- Name -->
-
-<h2 align="center" >
-  Learn whatever you want :closed_book: without leaving home :wedding:.
-</h2>
-
-<!-- Badges -->
-<p align="center">
-  
-</p>
-
-## :computer: Try it out
-
-You can try out CLOSER at
-[`https://closer-classroom.herokuapp.com/`]https://closer-classroom.herokuapp.com/)
-
-## :mega: About Closer
-
-Closer Smart Virtual Classroom is A collaborative web conferencing tool with an online whiteboard, 
-breakout rooms, and screen sharingcapabilities for teachers and tutors who want to conduct highly 
-interactive live online teaching sessions
 
 ## :rocket: Main Features
 
